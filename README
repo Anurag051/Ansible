@@ -1,0 +1,6 @@
+File Manifest
+
+    bootstrap-mgmt.sh - Install/Config Ansible & Deploy Code Snippets
+             examples - Code Snippets
+               README - This file ;)
+          Vagrantfile - Defines Vagrant Environment
